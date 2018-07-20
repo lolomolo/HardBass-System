@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VX7805-500
+D Non-Isolated DC/DC Converters 6.5-36Vin 5Vout 0.5A 2.5W SIP non-Iso
+K
+F https://www.cui.com/product/resource/vx78-500.pdf
+$ENDCMP
+#
+#End Doc Library

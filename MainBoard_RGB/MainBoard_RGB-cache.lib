@@ -274,4 +274,25 @@ X VDD 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
+# VX7805-500
+#
+DEF VX7805-500 PS 0 30 Y Y 1 F N
+F0 "PS" 1050 300 50 H V L CNN
+F1 "VX7805-500" 1050 200 50 H V L CNN
+F2 "VX7805500" 1050 100 50 H I L CNN
+F3 "https://www.cui.com/product/resource/vx78-500.pdf" 1050 0 50 H I L CNN
+F4 "Non-Isolated DC/DC Converters 6.5-36Vin 5Vout 0.5A 2.5W SIP non-Iso" 1050 -100 50 H I L CNN "Description"
+F5 "10" 1050 -200 50 H I L CNN "Height"
+F6 "CUI" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "VX7805-500" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "VX7805-500" 1050 -700 50 H I L CNN "Arrow Part Number"
+F9 "https://www.arrow.com/en/products/vx7805-500/cui-inc" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X +VIN 1 0 0 200 R 50 50 0 0 B
+X GND 2 0 -100 200 R 50 50 0 0 B
+X +VOUT 3 1200 0 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 1000 100 1000 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
 #End Library

@@ -1,4 +1,4 @@
-update=7/19/2018 7:44:32 PM
+update=7/20/2018 2:09:32 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=../../HardBass-System
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -61,5 +61,4 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=F:/HardBaseButton/kicad-ESP8266-master/ESP8266
-LibName34=F:/HardBaseButton/RAC01-05SGB/RAC01-05SGB
+LibName33=F:/HardBass-System/VX7805-500/VX7805-500
