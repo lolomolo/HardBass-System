@@ -1,7 +1,7 @@
 # HardBass-System
 ESP8266 based meshnet which will monitor only one state; HARDBASS State. 
 
-\n\n If the any of the many esp8266 bases sensors detect a HARDBASS-STATE ON all meshnet components will activate.
+/n If the any of the many esp8266 bases sensors detect a HARDBASS-STATE ON all meshnet components will activate.
 There are 4 discrete peripheral types. Each is based around the ESP8266_01 Module. 
 \n 1; Button|  this platform will only monitor the state of the hardbass button and inform the meshnet of the current state.
 \n 2; RasPi|   this platform will inform the raspberry pi when the bardbass state has been switched to on.
