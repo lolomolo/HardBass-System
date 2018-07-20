@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RAC01-05SGB
+D RECOM POWER - RAC01-05SGB - POWER SUPPLY, AC-DC, 5V, 0.2A
+K
+F https://www.recom-power.com/pdf/Powerline-AC-DC/RAC01-GB.pdf
+$ENDCMP
+#
+#End Doc Library
